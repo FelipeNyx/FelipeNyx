@@ -1,12 +1,24 @@
 ![Header](Banner.png)
 
-<link rel="preload" href="/style.css" as="style">
-<link href='/style.css' rel='stylesheet'>
 
-<div class="separador">.</div>
+<div style="
+    background-color: #5a513f;
+    border-radius: 10px;
+    color: transparent;
+    width: 1450px;
+    user-select: none">
+      .
+</div>
+
 <br>
 
-<div class="titulo">Presiona</div>
+<div style="
+  font-size: 30px;
+  font-weight: bold;
+  color: #ffe3ae;
+  font-family: 'Krub',sans-serif;">
+    Presiona
+</div>
 
 
 
