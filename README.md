@@ -1,4 +1,4 @@
-![Header](github-header-image.png)
+![Header](Black Gold Minimalist Elegant Business LinkedIn Banner.png)
 
 
 ## 🌐 Socials:
