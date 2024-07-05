@@ -1,5 +1,50 @@
 ![Header](Banner.png)
 
+<style>
+  :root {
+    --colorFondo: #0d1117;
+    --colorDorado: #5a513f;
+    --colorDoradoFuerte: #ffe3ae;
+    --colorTransparente: transparent;
+    --colorSemitransparent: rgba(255, 255, 255, 0.1);
+    --fuente: 'Krub',sans-serif;
+  }
+
+  .separador {
+    background-color: var(--colorDorado);
+    border-radius: 10px;
+    color: var(--colorTransparente);
+    width: 1450px;
+    user-select: none
+  }
+
+.titulo {
+  font-size: 30px;
+  font-weight: bold;
+  color: var(--colorDoradoFuerte);
+  font-family: var(--fuente);
+}
+
+
+
+</style>
+
+<div class="separador">.</div>
+<br>
+
+<div class="titulo">Presiona</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Felipe Hernandezguzman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Felipe Hernández Guzmán) 
