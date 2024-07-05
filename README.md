@@ -1,4 +1,4 @@
-![Header](Black Gold Minimalist Elegant Business LinkedIn Banner.png)
+![Header](Banner.png)
 
 
 ## 🌐 Socials:
