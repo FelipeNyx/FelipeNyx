@@ -1,33 +1,7 @@
 ![Header](Banner.png)
 
-<style>
-  :root {
-    --colorFondo: #0d1117;
-    --colorDorado: #5a513f;
-    --colorDoradoFuerte: #ffe3ae;
-    --colorTransparente: transparent;
-    --colorSemitransparent: rgba(255, 255, 255, 0.1);
-    --fuente: 'Krub',sans-serif;
-  }
-
-  .separador {
-    background-color: var(--colorDorado);
-    border-radius: 10px;
-    color: var(--colorTransparente);
-    width: 1450px;
-    user-select: none
-  }
-
-.titulo {
-  font-size: 30px;
-  font-weight: bold;
-  color: var(--colorDoradoFuerte);
-  font-family: var(--fuente);
-}
-
-
-
-</style>
+<link rel="preload" href="/style.css" as="style">
+<link href='/style.css' rel='stylesheet'>
 
 <div class="separador">.</div>
 <br>
